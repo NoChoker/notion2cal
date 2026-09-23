@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Polymarket Wetter-Forward-Test: ersten Routinelauf prüfen
 DTSTART;TZID="UTC+02:00":20260924T060000
 DTEND;TZID="UTC+02:00":20260924T060000
-DTSTAMP:20260923T152624Z
+DTSTAMP:20260923T190854Z
 UID:3e47ce28-5971-8178-bb6b-e2b310c12f36@notion2cal
 URL:https://app.notion.com/p/Polymarket-Wetter-Forward-Test-ersten-Routine
  lauf-pr-fen-3e47ce2859718178bb6be2b310c12f36
