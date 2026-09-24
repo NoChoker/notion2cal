@@ -6,7 +6,7 @@ X-WR-CALNAME:Notion Calendar
 BEGIN:VEVENT
 SUMMARY:Journaln: Trades + Hexaplan
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-813f-a6e3-e1c5352f00cf@notion2cal
 URL:https://app.notion.com/p/Journaln-Trades-Hexaplan-3e47ce285971813fa6e3
  e1c5352f00cf
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:OpenCode ausprobieren (Edge-Suche-Skill dort laufen lassen\, Ergeb
  nisse für Claude-Prüfung speichern)
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-81a9-aabd-ee95d9de848c@notion2cal
 URL:https://app.notion.com/p/OpenCode-ausprobieren-Edge-Suche-Skill-dort-l
  aufen-lassen-Ergebnisse-f-r-Claude-Pr-fung-speichern-3e47ce28597181a9aabde
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:W-Seminar weiter korrigieren
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-81bc-b1a6-d91e1fb7323a@notion2cal
 URL:https://app.notion.com/p/W-Seminar-weiter-korrigieren-3e47ce28597181bc
  b1a6d91e1fb7323a
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Mech-Strategien checken (lebendig? Kostenmodell verifizieren\, wei
  teres Vorgehen)
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-81c4-af07-c09dbd5a3b45@notion2cal
 URL:https://app.notion.com/p/Mech-Strategien-checken-lebendig-Kostenmodell
  -verifizieren-weiteres-Vorgehen-3e47ce28597181c4af07c09dbd5a3b45
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morgenanalyse
 DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-81c5-b9c8-d4135e08b37f@notion2cal
 URL:https://app.notion.com/p/Morgenanalyse-3e47ce28597181c5b9c8d4135e08b37
  f
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Polymarket Wetter-Forward-Test: ersten Routinelauf prüfen
 DTSTART;TZID="UTC+02:00":20260924T060000
 DTEND;TZID="UTC+02:00":20260924T060000
-DTSTAMP:20260923T221537Z
+DTSTAMP:20260924T003823Z
 UID:3e47ce28-5971-8178-bb6b-e2b310c12f36@notion2cal
 URL:https://app.notion.com/p/Polymarket-Wetter-Forward-Test-ersten-Routine
  lauf-pr-fen-3e47ce2859718178bb6be2b310c12f36
