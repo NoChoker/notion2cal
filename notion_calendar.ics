@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:W-Seminar weiter korrigieren
 DTSTART;TZID="UTC+02:00":20260925T130000
 DTEND;TZID="UTC+02:00":20260925T140000
-DTSTAMP:20260924T223537Z
+DTSTAMP:20260925T004821Z
 UID:3e57ce28-5971-8166-890f-f8c8f8b223a8@notion2cal
 URL:https://app.notion.com/p/W-Seminar-weiter-korrigieren-3e57ce2859718166
  890ff8c8f8b223a8
@@ -16,52 +16,9 @@ BEGIN:VEVENT
 SUMMARY:Drei Endverdikte entscheiden (REIT/Fund-Flow/PEAD-SUE)
 DTSTART;TZID="UTC+02:00":20260925T094000
 DTEND;TZID="UTC+02:00":20260925T100000
-DTSTAMP:20260924T223537Z
+DTSTAMP:20260925T004821Z
 UID:3e57ce28-5971-817b-82fb-cd7534ea7010@notion2cal
 URL:https://app.notion.com/p/Drei-Endverdikte-entscheiden-REIT-Fund-Flow-P
  EAD-SUE-3e57ce285971817b82fbcd7534ea7010
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journaln: Trades + Hexaplan
-DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260924T223537Z
-UID:3e47ce28-5971-813f-a6e3-e1c5352f00cf@notion2cal
-URL:https://app.notion.com/p/Journaln-Trades-Hexaplan-3e47ce285971813fa6e3
- e1c5352f00cf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OpenCode ausprobieren (Edge-Suche-Skill dort laufen lassen\, Ergeb
- nisse für Claude-Prüfung speichern)
-DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260924T223537Z
-UID:3e47ce28-5971-81a9-aabd-ee95d9de848c@notion2cal
-URL:https://app.notion.com/p/OpenCode-ausprobieren-Edge-Suche-Skill-dort-l
- aufen-lassen-Ergebnisse-f-r-Claude-Pr-fung-speichern-3e47ce28597181a9aabde
- e95d9de848c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:W-Seminar weiter korrigieren
-DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260924T223537Z
-UID:3e47ce28-5971-81bc-b1a6-d91e1fb7323a@notion2cal
-URL:https://app.notion.com/p/W-Seminar-weiter-korrigieren-3e47ce28597181bc
- b1a6d91e1fb7323a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mech-Strategien checken (lebendig? Kostenmodell verifizieren\, wei
- teres Vorgehen)
-DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260924T223537Z
-UID:3e47ce28-5971-81c4-af07-c09dbd5a3b45@notion2cal
-URL:https://app.notion.com/p/Mech-Strategien-checken-lebendig-Kostenmodell
- -verifizieren-weiteres-Vorgehen-3e47ce28597181c4af07c09dbd5a3b45
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morgenanalyse
-DTSTART;VALUE=DATE:20260924
-DTSTAMP:20260924T223537Z
-UID:3e47ce28-5971-81c5-b9c8-d4135e08b37f@notion2cal
-URL:https://app.notion.com/p/Morgenanalyse-3e47ce28597181c5b9c8d4135e08b37
- f
 END:VEVENT
 END:VCALENDAR
