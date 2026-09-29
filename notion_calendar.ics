@@ -4,121 +4,64 @@ PRODID:-//notion2cal//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Notion Calendar
 BEGIN:VEVENT
-SUMMARY:Session starten: Übergabe-Skill bauen (vorläufig)
+SUMMARY:Session starten: Übergabe-Skill bauen (vorläufig) (erledigt am 2
+ 9.09.\, Skill /uebergabe gebaut)
 DTSTART:20260930T094500Z
 DTEND:20260930T101500Z
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3ea7ce28-5971-8126-b22d-d4b60a6a823e@notion2cal
 URL:https://app.notion.com/p/Session-starten-bergabe-Skill-bauen-vorl-ufig
- -3ea7ce2859718126b22dd4b60a6a823e
+ -erledigt-am-29-09-Skill-uebergabe-gebaut-3ea7ce2859718126b22dd4b60a6a823e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud-Repo hochladen und ersten Cloud-Auftrag starten (vorläufig)
+  (Repo existiert schon\, erledigt\; neue Cloud-Aufgabe offen)
 DTSTART:20260929T200000Z
 DTEND:20260929T203000Z
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3ea7ce28-5971-8148-9944-f4dc9e2d53ab@notion2cal
 URL:https://app.notion.com/p/Cloud-Repo-hochladen-und-ersten-Cloud-Auftrag
- -starten-vorl-ufig-3ea7ce28597181489944f4dc9e2d53ab
+ -starten-vorl-ufig-Repo-existiert-schon-erledigt-n-3ea7ce28597181489944f4d
+ c9e2d53ab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session starten: analyst-revision-momentum Firm-Level-Arm (vorläu
- fig)
+ fig) (schon am 29.09. auf der VM gelaufen\, Download blockiert)
 DTSTART:20260930T090500Z
 DTEND:20260930T092500Z
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3ea7ce28-5971-8129-b667-ede366f5abc8@notion2cal
 URL:https://app.notion.com/p/Session-starten-analyst-revision-momentum-Fir
- m-Level-Arm-vorl-ufig-3ea7ce2859718129b667ede366f5abc8
+ m-Level-Arm-vorl-ufig-schon-am-29-09-auf-der-VM-ge-3ea7ce2859718129b667ede
+ 366f5abc8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Session starten: restatement-event-drift Long-Seite (vorläufig)
+SUMMARY:Session starten: restatement-event-drift Long-Seite (vorläufig) (
+ noch offen)
 DTSTART:20260930T092500Z
 DTEND:20260930T094500Z
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3ea7ce28-5971-81c3-b9d4-fb6f38984a3b@notion2cal
 URL:https://app.notion.com/p/Session-starten-restatement-event-drift-Long-
- Seite-vorl-ufig-3ea7ce28597181c3b9d4fb6f38984a3b
+ Seite-vorl-ufig-noch-offen-3ea7ce28597181c3b9d4fb6f38984a3b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sessions managen\, Journaln\, Opus-Plan-Session Lebensbereiche (P7
- ) (vorläufig)
+ ) (vorläufig) (erledigt\, 6 Bereiche gebaut\, Einrichtung durch dich offe
+ n)
 DTSTART:20260929T163000Z
 DTEND:20260929T170000Z
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3ea7ce28-5971-8106-b7e8-eb29bb3939b9@notion2cal
 URL:https://app.notion.com/p/Sessions-managen-Journaln-Opus-Plan-Session-L
- ebensbereiche-P7-vorl-ufig-3ea7ce2859718106b7e8eb29bb3939b9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session starten: Prop-Firm-Aufbauplan recherchieren (P2)
-DTSTART:20260929T091000Z
-DTEND:20260929T091500Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-8132-a1bf-ec94a8000ffd@notion2cal
-URL:https://app.notion.com/p/Session-starten-Prop-Firm-Aufbauplan-recherch
- ieren-P2-3ea7ce2859718132a1bfec94a8000ffd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session starten: ORB Stocks in Play Entscheidungsvorlage (P4)
-DTSTART:20260929T092000Z
-DTEND:20260929T092500Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-8144-b7f1-ce16d1d9dedb@notion2cal
-URL:https://app.notion.com/p/Session-starten-ORB-Stocks-in-Play-Entscheidu
- ngsvorlage-P4-3ea7ce2859718144b7f1ce16d1d9dedb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Claude-Cloud-Session-Credit claimen (Frist 07.10.)
-DTSTART:20260929T090000Z
-DTEND:20260929T090500Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-81ab-8d4f-fb2519461e9a@notion2cal
-URL:https://app.notion.com/p/Claude-Cloud-Session-Credit-claimen-Frist-07-
- 10-3ea7ce28597181ab8d4ffb2519461e9a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session starten: triple-rsi Live-Kapital prüfen (P3)
-DTSTART:20260929T091500Z
-DTEND:20260929T092000Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-81c5-802d-c40351a8db10@notion2cal
-URL:https://app.notion.com/p/Session-starten-triple-rsi-Live-Kapital-pr-fe
- n-P3-3ea7ce28597181c5802dc40351a8db10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session starten: OpenCode-Sessions prüfen (P1)
-DTSTART:20260929T090500Z
-DTEND:20260929T091000Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-81e9-97b6-c7de06752e00@notion2cal
-URL:https://app.notion.com/p/Session-starten-OpenCode-Sessions-pr-fen-P1-3
- ea7ce28597181e997b6c7de06752e00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:W-Seminar Korrektur
-DTSTART:20260929T110000Z
-DTEND:20260929T120000Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-81fe-ac79-f80b0ad9b0c2@notion2cal
-URL:https://app.notion.com/p/W-Seminar-Korrektur-3ea7ce28597181feac79f80b0
- ad9b0c2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus-Plan-Sessions starten: Wartungs-Skill (P5) und Effort-Tabelle
-  (P6)
-DTSTART:20260929T092500Z
-DTEND:20260929T094000Z
-DTSTAMP:20260929T090138Z
-UID:3ea7ce28-5971-81fe-af59-ead82f906903@notion2cal
-URL:https://app.notion.com/p/Opus-Plan-Sessions-starten-Wartungs-Skill-P5-
- und-Effort-Tabelle-P6-3ea7ce28597181feaf59ead82f906903
+ ebensbereiche-P7-vorl-ufig-erledigt-6-Bereiche--3ea7ce2859718106b7e8eb29bb
+ 3939b9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommerferien Bayern
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-810b-9517-d59ebee7759b@notion2cal
 URL:https://app.notion.com/p/Sommerferien-Bayern-3e67ce285971810b9517d59eb
  ee7759b
@@ -127,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstferien Bayern
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-811d-b66a-c1c8ae6f9a19@notion2cal
 URL:https://app.notion.com/p/Pfingstferien-Bayern-3e67ce285971811db66ac1c8
  ae6f9a19
@@ -136,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Frühjahrsferien Bayern
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-8145-a93e-ca0cf3209f67@notion2cal
 URL:https://app.notion.com/p/Fr-hjahrsferien-Bayern-3e67ce2859718145a93eca
  0cf3209f67
@@ -145,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsferien Bayern
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-8163-91dc-e92dab068ac0@notion2cal
 URL:https://app.notion.com/p/Weihnachtsferien-Bayern-3e67ce285971816391dce
  92dab068ac0
@@ -154,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Osterferien Bayern
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-816c-ab65-ef27fd74f8be@notion2cal
 URL:https://app.notion.com/p/Osterferien-Bayern-3e67ce285971816cab65ef27fd
  74f8be
@@ -163,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Herbstferien Bayern
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260929T090138Z
+DTSTAMP:20260929T154606Z
 UID:3e67ce28-5971-8195-8233-c0b8e749cc83@notion2cal
 URL:https://app.notion.com/p/Herbstferien-Bayern-3e67ce28597181958233c0b8e
  749cc83
