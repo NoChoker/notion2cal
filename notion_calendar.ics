@@ -4,31 +4,11 @@ PRODID:-//notion2cal//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Notion Calendar
 BEGIN:VEVENT
-SUMMARY:Session starten: Elliott-Wave-Profitabilität aus dem Journal (E1)
-  (vorläufig)
-DTSTART:20261002T085500Z
-DTEND:20261002T090500Z
-DTSTAMP:20261002T082658Z
-UID:3ed7ce28-5971-818a-9987-f011733c52e5@notion2cal
-URL:https://app.notion.com/p/Session-starten-Elliott-Wave-Profitabilit-t-a
- us-dem-Journal-E1-vorl-ufig-3ed7ce285971818a9987f011733c52e5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session starten: mech-strategien Vollautomatik entwerfen\, Plan Mo
- de (A1) (vorläufig)
-DTSTART:20261002T094500Z
-DTEND:20261002T095500Z
-DTSTAMP:20261002T082658Z
-UID:3ed7ce28-5971-81e0-b6aa-f940fc8f60f7@notion2cal
-URL:https://app.notion.com/p/Session-starten-mech-strategien-Vollautomatik
- -entwerfen-Plan-Mode-A1-vorl-ufig-3ed7ce28597181e0b6aaf940fc8f60f7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Session starten: Research institutionelle Quellen\, Sonnet high (R
  1) (vorläufig)
 DTSTART:20261003T131500Z
 DTEND:20261003T132500Z
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3ed7ce28-5971-81fb-9ed5-f667063a5f24@notion2cal
 URL:https://app.notion.com/p/Session-starten-Research-institutionelle-Quel
  len-Sonnet-high-R1-vorl-ufig-3ed7ce28597181fb9ed5f667063a5f24
@@ -37,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Sommerferien Bayern
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-810b-9517-d59ebee7759b@notion2cal
 URL:https://app.notion.com/p/Sommerferien-Bayern-3e67ce285971810b9517d59eb
  ee7759b
@@ -46,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstferien Bayern
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-811d-b66a-c1c8ae6f9a19@notion2cal
 URL:https://app.notion.com/p/Pfingstferien-Bayern-3e67ce285971811db66ac1c8
  ae6f9a19
@@ -55,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Frühjahrsferien Bayern
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-8145-a93e-ca0cf3209f67@notion2cal
 URL:https://app.notion.com/p/Fr-hjahrsferien-Bayern-3e67ce2859718145a93eca
  0cf3209f67
@@ -64,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsferien Bayern
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-8163-91dc-e92dab068ac0@notion2cal
 URL:https://app.notion.com/p/Weihnachtsferien-Bayern-3e67ce285971816391dce
  92dab068ac0
@@ -73,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Osterferien Bayern
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-816c-ab65-ef27fd74f8be@notion2cal
 URL:https://app.notion.com/p/Osterferien-Bayern-3e67ce285971816cab65ef27fd
  74f8be
@@ -82,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Herbstferien Bayern
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261002T082658Z
+DTSTAMP:20261002T145147Z
 UID:3e67ce28-5971-8195-8233-c0b8e749cc83@notion2cal
 URL:https://app.notion.com/p/Herbstferien-Bayern-3e67ce28597181958233c0b8e
  749cc83
