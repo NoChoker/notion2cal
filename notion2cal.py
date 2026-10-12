@@ -3,10 +3,10 @@
 
 import os
 import sys
-from datetime import datetime, date, timezone
+from datetime import datetime, date, timedelta, timezone
 
 import requests
-from icalendar import Calendar, Event
+from icalendar import Alarm, Calendar, Event
 
 NOTION_TOKEN = os.environ.get("NOTION_TOKEN")
 NOTION_DATABASE_ID = os.environ.get("NOTION_DATABASE_ID")
@@ -79,6 +79,24 @@ def find_description(properties: dict) -> str:
             if text:
                 return text
     return ""
+
+
+def get_checkbox(properties: dict, name: str) -> bool:
+    """Return the value of a checkbox property by name (False if missing)."""
+    prop = properties.get(name)
+    if not prop or prop["type"] != "checkbox":
+        return False
+    return bool(prop.get("checkbox"))
+
+
+def add_alarms(event: Event, title: str) -> None:
+    """Add display alarms 60 and 30 minutes before the start."""
+    for minutes in (60, 30):
+        alarm = Alarm()
+        alarm.add("action", "DISPLAY")
+        alarm.add("description", title)
+        alarm.add("trigger", timedelta(minutes=-minutes))
+        event.add_component(alarm)
 
 
 def parse_datetime(value: str) -> datetime | date:
@@ -160,6 +178,12 @@ def build_calendar(pages: list[dict]) -> Calendar:
 
         if description:
             event.add("description", description)
+
+        # Alarms only for timed events flagged "Fest" or "Erinnerung" (all-day: none)
+        if isinstance(start, datetime) and (
+            get_checkbox(props, "Fest") or get_checkbox(props, "Erinnerung")
+        ):
+            add_alarms(event, title)
 
         event.add("uid", f"{page['id']}@notion2cal")
         event.add("dtstamp", datetime.now())
