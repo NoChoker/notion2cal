@@ -4,95 +4,195 @@ PRODID:-//notion2cal//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Notion Calendar
 BEGIN:VEVENT
+SUMMARY:Acc 2: Folge-Session Nachprüfung starten (Prompt: management/allt
+ ag/uebergabe-acc2-nachpruefung-2026-10-13.md\, Sonnet\, /effort medium\; v
+ or 23:00 beenden)
+DTSTART;TZID="UTC+02:00":20261013T133000
+DTEND;TZID="UTC+02:00":20261013T135000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-8196-8a12-ea832297de99@notion2cal
+URL:https://app.notion.com/p/Acc-2-Folge-Session-Nachpr-fung-starten-Promp
+ t-management-alltag-uebergabe-acc2-nachpruefung-2026-3f87ce28597181968a12e
+ a832297de99
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Acc 2: Folge-Session Nachprüfung starten (Prompt: management/
+ alltag/uebergabe-acc2-nachpruefung-2026-10-13.md\, Sonnet\, /effort medium
+ \; vor 23:00 beenden)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Acc 2: Folge-Session Nachprüfung starten (Prompt: management/
+ alltag/uebergabe-acc2-nachpruefung-2026-10-13.md\, Sonnet\, /effort medium
+ \; vor 23:00 beenden)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sammelseite Entscheidung: 19 offene Punkte beantworten (vor Nachta
+ utomatik\; zuerst Triage-Rückfragen und GoodNotes-Reste)
+DTSTART;TZID="UTC+02:00":20261013T185000
+DTEND;TZID="UTC+02:00":20261013T193000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-8142-b972-ff3211e1ae53@notion2cal
+URL:https://app.notion.com/p/Sammelseite-Entscheidung-19-offene-Punkte-bea
+ ntworten-vor-Nachtautomatik-zuerst-Triage-R-ckfragen-3f87ce2859718142b972f
+ f3211e1ae53
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sammelseite Entscheidung: 19 offene Punkte beantworten (vor Na
+ chtautomatik\; zuerst Triage-Rückfragen und GoodNotes-Reste)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sammelseite Entscheidung: 19 offene Punkte beantworten (vor Na
+ chtautomatik\; zuerst Triage-Rückfragen und GoodNotes-Reste)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathe Abschnitt 1–7 rechnen\, Teil 2 (Rest\, 20 Min\; Übungsbla
+ tt-PDF)
+DTSTART;TZID="UTC+02:00":20261013T170000
+DTEND;TZID="UTC+02:00":20261013T172000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-81ed-8ea9-eee8a18f923a@notion2cal
+URL:https://app.notion.com/p/Mathe-Abschnitt-1-7-rechnen-Teil-2-Rest-20-Mi
+ n-bungsblatt-PDF-3f87ce28597181ed8ea9eee8a18f923a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W-Seminar: Format und Abgabe\, Teil 1 (40 Min\, Rest 30 Min offen
+ \; Formatvorlage Standard\, Überschriften\, Inhaltsverzeichnis\, Seitenza
+ hlen\, Deckblatt\, Erklärung unterschreiben)
+DTSTART;TZID="UTC+02:00":20261013T145000
+DTEND;TZID="UTC+02:00":20261013T153000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-816f-94b8-fdbdfd34a9aa@notion2cal
+URL:https://app.notion.com/p/W-Seminar-Format-und-Abgabe-Teil-1-40-Min-Res
+ t-30-Min-offen-Formatvorlage-Standard-berschrift-3f87ce285971816f94b8fdbdf
+ d34a9aa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:W-Seminar: Format und Abgabe\, Teil 1 (40 Min\, Rest 30 Min of
+ fen\; Formatvorlage Standard\, Überschriften\, Inhaltsverzeichnis\, Seite
+ nzahlen\, Deckblatt\, Erklärung unterschreiben)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:W-Seminar: Format und Abgabe\, Teil 1 (40 Min\, Rest 30 Min of
+ fen\; Formatvorlage Standard\, Überschriften\, Inhaltsverzeichnis\, Seite
+ nzahlen\, Deckblatt\, Erklärung unterschreiben)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krafttraining (1 h Sport)
+DTSTART;TZID="UTC+02:00":20261013T153000
+DTEND;TZID="UTC+02:00":20261013T163000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-8191-9e4d-f327a9429838@notion2cal
+URL:https://app.notion.com/p/Krafttraining-1-h-Sport-3f87ce28597181919e4df
+ 327a9429838
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W-Seminar: E-Mail an Betreuungslehrkraft senden (vierte Runde\, Fr
+ agen 1–10 inkl. Chatbot-Verläufe\, [NAME] eintragen)
+DTSTART;TZID="UTC+02:00":20261013T143500
+DTEND;TZID="UTC+02:00":20261013T145000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-8193-aa1a-e2ad2978630d@notion2cal
+URL:https://app.notion.com/p/W-Seminar-E-Mail-an-Betreuungslehrkraft-sende
+ n-vierte-Runde-Fragen-1-10-inkl-Chatbot-Verl-ufe--3f87ce2859718193aa1ae2ad
+ 2978630d
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:W-Seminar: E-Mail an Betreuungslehrkraft senden (vierte Runde
+ \, Fragen 1–10 inkl. Chatbot-Verläufe\, [NAME] eintragen)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:W-Seminar: E-Mail an Betreuungslehrkraft senden (vierte Runde
+ \, Fragen 1–10 inkl. Chatbot-Verläufe\, [NAME] eintragen)
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexaplan-Daten sammeln (Experiment\, 20 Min\, mind. 3 Datenpunkte)
+DTSTART;TZID="UTC+02:00":20261013T164000
+DTEND;TZID="UTC+02:00":20261013T170000
+DTSTAMP:20261013T111704Z
+UID:3f87ce28-5971-81b3-8e69-f31296126481@notion2cal
+URL:https://app.notion.com/p/Hexaplan-Daten-sammeln-Experiment-20-Min-mind
+ -3-Datenpunkte-3f87ce28597181b38e69f31296126481
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Journaln nachholen (aus: Assistenz 12.10.)
 DTSTART;TZID="UTC+02:00":20261013T181500
 DTEND;TZID="UTC+02:00":20261013T184500
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-81c9-b15c-df1e4a699e55@notion2cal
 URL:https://app.notion.com/p/Journaln-nachholen-aus-Assistenz-12-10-3f77ce
  28597181c9b15cdf1e4a699e55
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychologie-Arbeitsblätter (Wissensdatenbank\, aus: Assistenz 12.
- 10.)
-DTSTART;TZID="UTC+02:00":20261013T185000
-DTEND;TZID="UTC+02:00":20261013T193000
-DTSTAMP:20261013T035152Z
+ 10.\; verschoben von 13.10. wegen Entscheidungsblock)
+DTSTART;VALUE=DATE:20261014
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-81dc-9809-c56ee0ca7a31@notion2cal
 URL:https://app.notion.com/p/Psychologie-Arbeitsbl-tter-Wissensdatenbank-a
- us-Assistenz-12-10-3f77ce28597181dc9809c56ee0ca7a31
+ us-Assistenz-12-10-verschoben-von-13-10-wegen-Ent-3f77ce28597181dc9809c56e
+ e0ca7a31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Macbeth-Checkfragen aus dem Kopf (Lernblatt Teil 2 H)
-DTSTART;TZID="UTC+02:00":20261013T135000
-DTEND;TZID="UTC+02:00":20261013T140500
-DTSTAMP:20261013T035152Z
+DTSTART;TZID="UTC+02:00":20261013T142000
+DTEND;TZID="UTC+02:00":20261013T143500
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-8103-8643-ce828ddb015c@notion2cal
 URL:https://app.notion.com/p/Macbeth-Checkfragen-aus-dem-Kopf-Lernblatt-Te
  il-2-H-3f77ce28597181038643ce828ddb015c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathe Abschnitt 1–7 rechnen (Übungsblatt-PDF\, Vortag Mi)
-DTSTART;TZID="UTC+02:00":20261013T070500
-DTEND;TZID="UTC+02:00":20261013T074500
-DTSTAMP:20261013T035152Z
+SUMMARY:Mathe Abschnitt 1–7 rechnen\, Teil 1 (20 Min\; verschoben von 08
+ :10\, Macbeth lief länger)
+DTSTART;TZID="UTC+02:00":20261013T193000
+DTEND;TZID="UTC+02:00":20261013T195000
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-8126-801f-c4b205755ca5@notion2cal
-URL:https://app.notion.com/p/Mathe-Abschnitt-1-7-rechnen-bungsblatt-PDF-Vo
- rtag-Mi-3f77ce2859718126801fc4b205755ca5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Macbeth lesen: Start hier\, 12 Sätze\, Zeittafel\, Act 1–2 (Ler
- nblatt)
-DTSTART;TZID="UTC+02:00":20261013T074500
-DTEND;TZID="UTC+02:00":20261013T081500
-DTSTAMP:20261013T035152Z
-UID:3f77ce28-5971-8143-88a2-e91a8fc2fedc@notion2cal
-URL:https://app.notion.com/p/Macbeth-lesen-Start-hier-12-S-tze-Zeittafel-A
- ct-1-2-Lernblatt-3f77ce285971814388a2e91a8fc2fedc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EW-Morgenroutine
-DTSTART;TZID="UTC+02:00":20261013T062500
-DTEND;TZID="UTC+02:00":20261013T070500
-DTSTAMP:20261013T035152Z
-UID:3f77ce28-5971-816c-85d0-f278d260a0d6@notion2cal
-URL:https://app.notion.com/p/EW-Morgenroutine-3f77ce285971816c85d0f278d260
- a0d6
+URL:https://app.notion.com/p/Mathe-Abschnitt-1-7-rechnen-Teil-1-20-Min-ver
+ schoben-von-08-10-Macbeth-lief-l-nger-3f77ce2859718126801fc4b205755ca5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Französisch: Material zu Frankophonie/Kolonisation fotografieren 
  und ablegen
-DTSTART;TZID="UTC+02:00":20261013T140500
-DTEND;TZID="UTC+02:00":20261013T143000
-DTSTAMP:20261013T035152Z
+DTSTART;VALUE=DATE:20261014
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-817d-a325-d0b58f01024b@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Material-zu-Frankophonie-Kolonisa
  tion-fotografieren-und-ablegen-3f77ce285971817da325d0b58f01024b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krafttraining
-DTSTART;TZID="UTC+02:00":20261013T143000
-DTEND;TZID="UTC+02:00":20261013T153000
-DTSTAMP:20261013T035152Z
-UID:3f77ce28-5971-818e-964c-d422deff4f77@notion2cal
-URL:https://app.notion.com/p/Krafttraining-3f77ce285971818e964cd422deff4f7
- 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexaplan-Experiment (20 Min\, letzter Tag)
-DTSTART;TZID="UTC+02:00":20261013T133000
-DTEND;TZID="UTC+02:00":20261013T135000
-DTSTAMP:20261013T035152Z
+SUMMARY:Macbeth Lernblatt Teil 2 B: Macbeths Entwicklung in Phasen (Act 1
+ –2 Start\, 12 Sätze\; Englisch-LN Do 15.10.)
+DTSTART;TZID="UTC+02:00":20261013T135000
+DTEND;TZID="UTC+02:00":20261013T142000
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-81e2-afe5-d3fa65fda41b@notion2cal
-URL:https://app.notion.com/p/Hexaplan-Experiment-20-Min-letzter-Tag-3f77ce
- 28597181e2afe5d3fa65fda41b
+URL:https://app.notion.com/p/Macbeth-Lernblatt-Teil-2-B-Macbeths-Entwicklu
+ ng-in-Phasen-Act-1-2-Start-12-S-tze-Englisch-LN-Do--3f77ce28597181e2afe5d3
+ fa65fda41b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe Abschnitt 8–14 rechnen (verschoben von 12.10.\; Übungsbla
  tt-PDF)
 DTSTART;TZID="UTC+02:00":20261013T173000
 DTEND;TZID="UTC+02:00":20261013T181000
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f77ce28-5971-818b-90e4-f2ab18a4af6b@notion2cal
 URL:https://app.notion.com/p/Mathe-Abschnitt-8-14-rechnen-verschoben-von-1
  2-10-bungsblatt-PDF-3f77ce285971818b90e4f2ab18a4af6b
@@ -102,7 +202,7 @@ SUMMARY:Mathe-Lehrkraft fragen: Stoff der Kurzarbeit am 22.10. (Di fiel au
  s\, jetzt Mi\, Stundenbeginn prüfen)
 DTSTART;TZID="UTC+02:00":20261014T080000
 DTEND;TZID="UTC+02:00":20261014T080000
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-816a-9ab4-f477d9ec9f47@notion2cal
 URL:https://app.notion.com/p/Mathe-Lehrkraft-fragen-Stoff-der-Kurzarbeit-a
  m-22-10-Di-fiel-aus-jetzt-Mi-Stundenbeginn-pr-fen-3f57ce285971816a9ab4f477
@@ -111,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geo: Schulaufgabe (2geo)
 DTSTART;VALUE=DATE:20270113
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-810a-b9f4-c1e039fcad41@notion2cal
 URL:https://app.notion.com/p/Geo-Schulaufgabe-2geo-3f57ce285971810ab9f4c1e
  039fcad41
@@ -119,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Französisch: Kurzarbeit (2f1)
 DTSTART;VALUE=DATE:20261116
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-811d-b5ed-c450aa4d4265@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Kurzarbeit-2f1-3f57ce285971811db5
  edc450aa4d4265
@@ -127,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Kurzarbeit (2M2)
 DTSTART;VALUE=DATE:20261126
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-8127-9a8e-f4e17908c2a2@notion2cal
 URL:https://app.notion.com/p/Mathe-Kurzarbeit-2M2-3f57ce28597181279a8ef4e1
  7908c2a2
@@ -135,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Kurzarbeit (2M2)
 DTSTART;VALUE=DATE:20261022
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-812a-9483-fc3b797e5265@notion2cal
 URL:https://app.notion.com/p/Mathe-Kurzarbeit-2M2-3f57ce285971812a9483fc3b
  797e5265
@@ -143,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deutsch: Schulaufgabe (2D2)
 DTSTART;VALUE=DATE:20270312
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-814a-b7c9-f853e35f425b@notion2cal
 URL:https://app.notion.com/p/Deutsch-Schulaufgabe-2D2-3f57ce285971814ab7c9
  f853e35f425b
@@ -151,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Schulaufgabe (2M2)
 DTSTART;VALUE=DATE:20261203
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-8151-94d7-f8f41053dba3@notion2cal
 URL:https://app.notion.com/p/Mathe-Schulaufgabe-2M2-3f57ce285971815194d7f8
  f41053dba3
@@ -159,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Englisch: angekündigter kleiner Leistungsnachweis (2E1)
 DTSTART;VALUE=DATE:20261015
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-815f-b775-de9efd07addd@notion2cal
 URL:https://app.notion.com/p/Englisch-angek-ndigter-kleiner-Leistungsnachw
  eis-2E1-3f57ce285971815fb775de9efd07addd
@@ -167,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Religion: Schulaufgabe (2k1)
 DTSTART;VALUE=DATE:20261222
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-816c-a5dc-f29bbf7e56d5@notion2cal
 URL:https://app.notion.com/p/Religion-Schulaufgabe-2k1-3f57ce285971816ca5d
  cf29bbf7e56d5
@@ -175,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kunst: Schulaufgabe (2ku st)
 DTSTART;VALUE=DATE:20261218
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-818c-b39b-da9ddd8095d2@notion2cal
 URL:https://app.notion.com/p/Kunst-Schulaufgabe-2ku-st-3f57ce285971818cb39
  bda9ddd8095d2
@@ -183,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geo: Kurzarbeit (2geo)
 DTSTART;VALUE=DATE:20261021
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-819c-9a45-ee4e649586a6@notion2cal
 URL:https://app.notion.com/p/Geo-Kurzarbeit-2geo-3f57ce285971819c9a45ee4e6
  49586a6
@@ -191,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bio: Schulaufgabe (2b ho)
 DTSTART;VALUE=DATE:20261123
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81b3-8417-f9c3df45ef04@notion2cal
 URL:https://app.notion.com/p/Bio-Schulaufgabe-2b-ho-3f57ce28597181b38417f9
  c3df45ef04
@@ -199,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Englisch: Schulaufgabe (2E1)
 DTSTART;VALUE=DATE:20270309
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81b5-96af-c9ab76c9414e@notion2cal
 URL:https://app.notion.com/p/Englisch-Schulaufgabe-2E1-3f57ce28597181b596a
  fc9ab76c9414e
@@ -207,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deutsch: Schulaufgabe (2D2)
 DTSTART;VALUE=DATE:20261211
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81b8-a023-cc28232022d4@notion2cal
 URL:https://app.notion.com/p/Deutsch-Schulaufgabe-2D2-3f57ce28597181b8a023
  cc28232022d4
@@ -215,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Französisch: Schulaufgabe (2f1)
 DTSTART;VALUE=DATE:20261209
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81c3-bc3a-e85dfad9693e@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Schulaufgabe-2f1-3f57ce28597181c3
  bc3ae85dfad9693e
@@ -223,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschichte: Schulaufgabe (2g2)
 DTSTART;VALUE=DATE:20261130
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81e4-9660-f43aed188069@notion2cal
 URL:https://app.notion.com/p/Geschichte-Schulaufgabe-2g2-3f57ce28597181e49
  660f43aed188069
@@ -231,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Schulaufgabe (2M2)
 DTSTART;VALUE=DATE:20270304
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81f7-ac56-d2df7551a1d9@notion2cal
 URL:https://app.notion.com/p/Mathe-Schulaufgabe-2M2-3f57ce28597181f7ac56d2
  df7551a1d9
@@ -239,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Englisch: Schulaufgabe (2E1)
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3f57ce28-5971-81f9-ab60-fae5821c741e@notion2cal
 URL:https://app.notion.com/p/Englisch-Schulaufgabe-2E1-3f57ce28597181f9ab6
  0fae5821c741e
@@ -248,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Sommerferien Bayern
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-810b-9517-d59ebee7759b@notion2cal
 URL:https://app.notion.com/p/Sommerferien-Bayern-3e67ce285971810b9517d59eb
  ee7759b
@@ -257,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstferien Bayern
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-811d-b66a-c1c8ae6f9a19@notion2cal
 URL:https://app.notion.com/p/Pfingstferien-Bayern-3e67ce285971811db66ac1c8
  ae6f9a19
@@ -266,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Frühjahrsferien Bayern
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-8145-a93e-ca0cf3209f67@notion2cal
 URL:https://app.notion.com/p/Fr-hjahrsferien-Bayern-3e67ce2859718145a93eca
  0cf3209f67
@@ -275,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsferien Bayern
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-8163-91dc-e92dab068ac0@notion2cal
 URL:https://app.notion.com/p/Weihnachtsferien-Bayern-3e67ce285971816391dce
  92dab068ac0
@@ -284,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:Osterferien Bayern
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-816c-ab65-ef27fd74f8be@notion2cal
 URL:https://app.notion.com/p/Osterferien-Bayern-3e67ce285971816cab65ef27fd
  74f8be
@@ -293,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Herbstferien Bayern
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261013T035152Z
+DTSTAMP:20261013T111704Z
 UID:3e67ce28-5971-8195-8233-c0b8e749cc83@notion2cal
 URL:https://app.notion.com/p/Herbstferien-Bayern-3e67ce28597181958233c0b8e
  749cc83
