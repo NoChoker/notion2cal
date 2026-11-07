@@ -8,7 +8,7 @@ SUMMARY:Referat Nasser Üben 4: zweiter Durchlauf am Sonntag\, Zeit stoppe
  n (Ziel 20 Min\; Referat Di 10.11.\; Leopold 07.11.\; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261108T170000
 DTEND;TZID="UTC+01:00":20261108T172500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-813d-949a-e0ac60997dfe@notion2cal
 URL:https://app.notion.com/p/Referat-Nasser-ben-4-zweiter-Durchlauf-am-Son
  ntag-Zeit-stoppen-Ziel-20-Min-Referat-Di-10-11-L-4117ce285971813d949ae0ac6
@@ -19,7 +19,7 @@ SUMMARY:Referat Nasser Üben 6: zweiter Durchlauf am Montag\, Zeit stoppen
   (Ziel 20 Min\; Referat Di 10.11.\; Leopold 07.11.\; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261109T193000
 DTEND;TZID="UTC+01:00":20261109T195500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81e9-8b0c-e2fa1bc26964@notion2cal
 URL:https://app.notion.com/p/Referat-Nasser-ben-6-zweiter-Durchlauf-am-Mon
  tag-Zeit-stoppen-Ziel-20-Min-Referat-Di-10-11-Le-4117ce28597181e98b0ce2fa1
@@ -30,7 +30,7 @@ SUMMARY:Privater Termin 16:00–17:00 inkl. Hin- und Rückfahrt je ca. 30
  Min (Leopold 07.11.)
 DTSTART;TZID="UTC+01:00":20261109T153000
 DTEND;TZID="UTC+01:00":20261109T173000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-814f-8c0e-d1f7fb887e1f@notion2cal
 URL:https://app.notion.com/p/Privater-Termin-16-00-17-00-inkl-Hin-und-R-ck
  fahrt-je-ca-30-Min-Leopold-07-11-4117ce285971814f8c0ed1f7fb887e1f
@@ -52,58 +52,11 @@ SUMMARY:Lernapp-Handy-Rest: Amir-Nachrichten/Fragen\, Marketing-Konten\, E
  ntscheidungen ankreuzen (Rest von Sa 07.11.\, Handy\; Annahme 20 Min)
 DTSTART;TZID="UTC+01:00":20261109T173500
 DTEND;TZID="UTC+01:00":20261109T175500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81a6-9c94-e9f4ac3fd11c@notion2cal
 URL:https://app.notion.com/p/Lernapp-Handy-Rest-Amir-Nachrichten-Fragen-Ma
  rketing-Konten-Entscheidungen-ankreuzen-Rest-von-Sa-4117ce28597181a69c94e9
  f4ac3fd11c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Referat Nasser Üben 2 vor Gudrun (Aufführung mit Sprechzettel v3
- \, Zeit stoppen\; Referat Di 10.11.\; Leopold 07.11.\; Ende Annahme 16:30)
-DTSTART;TZID="UTC+01:00":20261107T160000
-DTEND;TZID="UTC+01:00":20261107T163000
-DTSTAMP:20261107T145227Z
-UID:4117ce28-5971-817c-a6cb-c32456ba4818@notion2cal
-URL:https://app.notion.com/p/Referat-Nasser-ben-2-vor-Gudrun-Auff-hrung-mi
- t-Sprechzettel-v3-Zeit-stoppen-Referat-Di-10-11-L-4117ce285971817ca6cbc324
- 56ba4818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Referat Nasser Üben 2 vor Gudrun (Aufführung mit Sprechzette
- l v3\, Zeit stoppen\; Referat Di 10.11.\; Leopold 07.11.\; Ende Annahme 16
- :30)
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Referat Nasser Üben 2 vor Gudrun (Aufführung mit Sprechzette
- l v3\, Zeit stoppen\; Referat Di 10.11.\; Leopold 07.11.\; Ende Annahme 16
- :30)
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Telefonat mit Amir über die Gründung (Leopold 07.11.\; Ende Anna
- hme 16:00)
-DTSTART;TZID="UTC+01:00":20261107T153000
-DTEND;TZID="UTC+01:00":20261107T160000
-DTSTAMP:20261107T145227Z
-UID:4117ce28-5971-8161-8c09-f8553507f779@notion2cal
-URL:https://app.notion.com/p/Telefonat-mit-Amir-ber-die-Gr-ndung-Leopold-0
- 7-11-Ende-Annahme-16-00-4117ce28597181618c09f8553507f779
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Telefonat mit Amir über die Gründung (Leopold 07.11.\; Ende 
- Annahme 16:00)
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Telefonat mit Amir über die Gründung (Leopold 07.11.\; Ende 
- Annahme 16:00)
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade 
@@ -111,7 +64,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  Annahme)
 DTSTART;TZID="UTC+01:00":20261108T070000
 DTEND;TZID="UTC+01:00":20261108T074500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8100-8c1e-d3c5b683e94d@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce28597181008c1ed3c5b
@@ -120,9 +73,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaß/Freunde (1 h\, Gesundheits-Minimum\; Abendessen dabei\; Leop
  old 07.11.: ab 20:00)
-DTSTART;TZID="UTC+01:00":20261107T200000
-DTEND;TZID="UTC+01:00":20261107T210000
-DTSTAMP:20261107T145227Z
+DTSTART;TZID="UTC+01:00":20261107T202000
+DTEND;TZID="UTC+01:00":20261107T210500
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8100-9a10-eb2309c7716e@notion2cal
 URL:https://app.notion.com/p/Spa-Freunde-1-h-Gesundheits-Minimum-Abendesse
  n-dabei-Leopold-07-11-ab-20-00-4117ce28597181009a10eb2309c7716e
@@ -132,7 +85,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261114T114500
 DTEND;TZID="UTC+01:00":20261114T120500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8109-aac7-f195b144a44c@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-4117ce2859718109aac7f195b144a44c
@@ -141,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Spaziergang 20 Min ohne Handy (Kernpunkt-Ersatz für Kraft)
 DTSTART;TZID="UTC+01:00":20261115T100000
 DTEND;TZID="UTC+01:00":20261115T102000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-810a-8b1b-f37baf6e4c2d@notion2cal
 URL:https://app.notion.com/p/Spaziergang-20-Min-ohne-Handy-Kernpunkt-Ersat
  z-f-r-Kraft-4117ce285971810a8b1bf37baf6e4c2d
@@ -150,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261115T214500
 DTEND;TZID="UTC+01:00":20261115T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-810c-9d5a-c69601b079fa@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce285971810c9d5ac696
  01b079fa
@@ -169,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261112T204500
 DTEND;TZID="UTC+01:00":20261112T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-810e-b142-d0b536b85980@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971810eb142d0b536b85980
@@ -178,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261113T214500
 DTEND;TZID="UTC+01:00":20261113T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8110-b620-c7004969b306@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce2859718110b620c700
  4969b306
@@ -197,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Spaß/Freunde (1 h\, Gesundheits-Minimum\; Annahme)
 DTSTART;TZID="UTC+01:00":20261113T183000
 DTEND;TZID="UTC+01:00":20261113T193000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8112-abca-c42b660e0ba3@notion2cal
 URL:https://app.notion.com/p/Spa-Freunde-1-h-Gesundheits-Minimum-Annahme-4
  117ce2859718112abcac42b660e0ba3
@@ -206,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Spaziergang 20 Min ohne Handy (Kernpunkt-Ersatz für Kraft)
 DTSTART;TZID="UTC+01:00":20261110T154500
 DTEND;TZID="UTC+01:00":20261110T160500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8119-bb3e-fe34dc0a8bdd@notion2cal
 URL:https://app.notion.com/p/Spaziergang-20-Min-ohne-Handy-Kernpunkt-Ersat
  z-f-r-Kraft-4117ce2859718119bb3efe34dc0a8bdd
@@ -216,7 +169,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  „nach Plan ja/nein“\, PnL abdecken\; Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261110T061000
 DTEND;TZID="UTC+01:00":20261110T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-811b-994c-fab06c8593de@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce285971811b994cfab06
@@ -226,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:10 Seiten lesen (gut\, wenn\; nach dem Duschen nach dem Training)
 DTSTART;TZID="UTC+01:00":20261114T111500
 DTEND;TZID="UTC+01:00":20261114T114500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8121-988b-ec7f08d39bbb@notion2cal
 URL:https://app.notion.com/p/10-Seiten-lesen-gut-wenn-nach-dem-Duschen-nac
  h-dem-Training-4117ce2859718121988bec7f08d39bbb
@@ -236,7 +189,7 @@ SUMMARY:Krafttraining (4×/Woche\, Kernpunkt\; Beinen spätestens ab 16:00
  \; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261109T130000
 DTEND;TZID="UTC+01:00":20261109T134500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8138-8fa2-e39b653310df@notion2cal
 URL:https://app.notion.com/p/Krafttraining-4-Woche-Kernpunkt-Beinen-sp-tes
  tens-ab-16-00-Annahme-Uhrzeit-4117ce28597181388fa2e39b653310df
@@ -245,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261108T204500
 DTEND;TZID="UTC+01:00":20261108T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8140-93d1-f0f529c40507@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971814093d1f0f529c40507
@@ -254,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Spaß/Freunde (1 h\, Gesundheits-Minimum\; Annahme)
 DTSTART;TZID="UTC+01:00":20261114T180000
 DTEND;TZID="UTC+01:00":20261114T190000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8146-9424-f89380cff217@notion2cal
 URL:https://app.notion.com/p/Spa-Freunde-1-h-Gesundheits-Minimum-Annahme-4
  117ce28597181469424f89380cff217
@@ -265,7 +218,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  Annahme)
 DTSTART;TZID="UTC+01:00":20261115T073000
 DTEND;TZID="UTC+01:00":20261115T081500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8149-b684-e0f734124c9e@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce2859718149b684e0f73
@@ -277,7 +230,7 @@ SUMMARY:Koenz-Videos ansehen + „nach Plan ja/nein“ für Sep–Nov im T
  ahme 90 Min)
 DTSTART;TZID="UTC+01:00":20261108T075000
 DTEND;TZID="UTC+01:00":20261108T092000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8152-a6fc-c4c3aefe9ff3@notion2cal
 URL:https://app.notion.com/p/Koenz-Videos-ansehen-nach-Plan-ja-nein-f-r-Se
  p-Nov-im-Trade-Journal-nachtragen-Teil-2-Blocker--4117ce2859718152a6fcc4c3
@@ -287,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:10 Seiten lesen (gut\, wenn\; Freistunde)
 DTSTART;TZID="UTC+01:00":20261113T112000
 DTEND;TZID="UTC+01:00":20261113T115000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-815a-84eb-db7d4469f728@notion2cal
 URL:https://app.notion.com/p/10-Seiten-lesen-gut-wenn-Freistunde-4117ce285
  971815a84ebdb7d4469f728
@@ -298,7 +251,7 @@ SUMMARY:W-Seminar Abgabe-Block: KI-Übersichtstabelle IN die Arbeit legen
  Di 10.11.\; Laptop\; Annahme 30 Min)
 DTSTART;TZID="UTC+01:00":20261109T152000
 DTEND;TZID="UTC+01:00":20261109T155000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8161-a23e-f985a13ef81b@notion2cal
 URL:https://app.notion.com/p/W-Seminar-Abgabe-Block-KI-bersichtstabelle-IN
  -die-Arbeit-legen-und-unterschreiben-Deckblatt-Erkl--4117ce2859718161a23ef
@@ -321,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:W-Seminar: Abgabe der Seminararbeit (Pflicht entfällt danach)
 DTSTART;VALUE=DATE:20261110
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8164-90e1-e59d0ede8e23@notion2cal
 URL:https://app.notion.com/p/W-Seminar-Abgabe-der-Seminararbeit-Pflicht-en
  tf-llt-danach-4117ce285971816490e1e59d0ede8e23
@@ -330,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Spaß/Freunde (1 h\, Gesundheits-Minimum\; Annahme)
 DTSTART;TZID="UTC+01:00":20261115T150000
 DTEND;TZID="UTC+01:00":20261115T160000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8165-a5cc-f098acc7a657@notion2cal
 URL:https://app.notion.com/p/Spa-Freunde-1-h-Gesundheits-Minimum-Annahme-4
  117ce2859718165a5ccf098acc7a657
@@ -340,7 +293,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  „nach Plan ja/nein“\, PnL abdecken\; Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261109T061000
 DTEND;TZID="UTC+01:00":20261109T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8165-b8a5-d3b1b99276cb@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce2859718165b8a5d3b1b
@@ -350,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Spaziergang 20 Min ohne Handy (Kernpunkt-Ersatz für Kraft)
 DTSTART;TZID="UTC+01:00":20261108T163500
 DTEND;TZID="UTC+01:00":20261108T165500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8168-b1b4-f88ad4c6ba63@notion2cal
 URL:https://app.notion.com/p/Spaziergang-20-Min-ohne-Handy-Kernpunkt-Ersat
  z-f-r-Kraft-4117ce2859718168b1b4f88ad4c6ba63
@@ -359,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261107T210500
 DTEND;TZID="UTC+01:00":20261107T211500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-816e-9106-f90e9de1daf4@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971816e9106f90e9de1daf4
@@ -369,7 +322,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261113T164500
 DTEND;TZID="UTC+01:00":20261113T170500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8175-aa83-cbd895837e6d@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-4117ce2859718175aa83cbd895837e6d
@@ -378,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261114T204500
 DTEND;TZID="UTC+01:00":20261114T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8179-9a5f-cdaef0d4d35b@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce28597181799a5fcdaef0d4d35b
@@ -388,7 +341,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  „nach Plan ja/nein“\, PnL abdecken\; Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261113T061000
 DTEND;TZID="UTC+01:00":20261113T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-817a-aabe-ffdc527c9886@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce285971817aaabeffdc5
@@ -398,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261115T204500
 DTEND;TZID="UTC+01:00":20261115T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-817a-bd76-e6b17469c645@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971817abd76e6b17469c645
@@ -407,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261110T204500
 DTEND;TZID="UTC+01:00":20261110T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-817d-bf2b-da8fe1df86a0@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971817dbf2bda8fe1df86a0
@@ -416,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261111T204500
 DTEND;TZID="UTC+01:00":20261111T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-817e-973d-c33f8a8b4685@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971817e973dc33f8a8b4685
@@ -425,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261114T214500
 DTEND;TZID="UTC+01:00":20261114T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-818d-bc27-ce8dfaf3ee1c@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce285971818dbc27ce8d
  faf3ee1c
@@ -444,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261109T204500
 DTEND;TZID="UTC+01:00":20261109T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8198-bbc9-c413c80dd2ab@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce2859718198bbc9c413c80dd2ab
@@ -453,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Abendformular ausfüllen (Kernpunkt\, vor 21:15)
 DTSTART;TZID="UTC+01:00":20261113T204500
 DTEND;TZID="UTC+01:00":20261113T205500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-819b-aef3-cd21d086e259@notion2cal
 URL:https://app.notion.com/p/Abendformular-ausf-llen-Kernpunkt-vor-21-15-4
  117ce285971819baef3cd21d086e259
@@ -462,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Krafttraining (4×/Woche\, Kernpunkt\; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261114T101500
 DTEND;TZID="UTC+01:00":20261114T110000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81a2-b67e-ed9698968ff6@notion2cal
 URL:https://app.notion.com/p/Krafttraining-4-Woche-Kernpunkt-Annahme-Uhrze
  it-4117ce28597181a2b67eed9698968ff6
@@ -471,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261108T214500
 DTEND;TZID="UTC+01:00":20261108T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81b3-83b9-c3977478d734@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181b383b9c397
  7478d734
@@ -491,7 +444,7 @@ SUMMARY:Konten auf eigenen Namen eröffnen und Bestände umziehen (Laptop
  \; Frist 15.11.\; Annahme 60 Min)
 DTSTART;TZID="UTC+01:00":20261114T130000
 DTEND;TZID="UTC+01:00":20261114T140000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81bd-947f-f4e00bcd44f0@notion2cal
 URL:https://app.notion.com/p/Konten-auf-eigenen-Namen-er-ffnen-und-Best-nd
  e-umziehen-Laptop-Frist-15-11-Annahme-60-Min-4117ce28597181bd947ff4e00bcd4
@@ -501,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261110T214500
 DTEND;TZID="UTC+01:00":20261110T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81be-939f-d5a7f8ca8458@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181be939fd5a7
  f8ca8458
@@ -520,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261107T214500
 DTEND;TZID="UTC+01:00":20261107T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81c1-b1cd-f594b90fa686@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181c1b1cdf594
  b90fa686
@@ -539,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Spaziergang 20 Min ohne Handy (Kernpunkt-Ersatz für Kraft)
 DTSTART;TZID="UTC+01:00":20261112T140000
 DTEND;TZID="UTC+01:00":20261112T142000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81c2-ac91-ea49361b138c@notion2cal
 URL:https://app.notion.com/p/Spaziergang-20-Min-ohne-Handy-Kernpunkt-Ersat
  z-f-r-Kraft-4117ce28597181c2ac91ea49361b138c
@@ -549,7 +502,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261115T103000
 DTEND;TZID="UTC+01:00":20261115T105000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81c3-9121-d7f1b259d80a@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-4117ce28597181c39121d7f1b259d80a
@@ -558,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261112T214500
 DTEND;TZID="UTC+01:00":20261112T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81c9-824b-f5ae83f7a6a3@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181c9824bf5ae
  83f7a6a3
@@ -578,7 +531,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  „nach Plan ja/nein“\, PnL abdecken\; Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261111T061000
 DTEND;TZID="UTC+01:00":20261111T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81d3-b1e4-e54b888677a1@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce28597181d3b1e4e54b8
@@ -588,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261109T214500
 DTEND;TZID="UTC+01:00":20261109T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81dd-9656-cf92a1100337@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181dd9656cf92
  a1100337
@@ -607,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Bett 21:45 (Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261111T214500
 DTEND;TZID="UTC+01:00":20261111T215500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81df-9b01-fe02a1382463@notion2cal
 URL:https://app.notion.com/p/Bett-21-45-Kernpunkt-4117ce28597181df9b01fe02
  a1382463
@@ -628,7 +581,7 @@ SUMMARY:W-Seminar: Stick prüfen (Transkript als PDF\, Internetseiten als
  10.11.\; Laptop\; Annahme 25 Min)
 DTSTART;TZID="UTC+01:00":20261110T063000
 DTEND;TZID="UTC+01:00":20261110T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81ee-a402-dfaccff8812e@notion2cal
 URL:https://app.notion.com/p/W-Seminar-Stick-pr-fen-Transkript-als-PDF-Int
  ernetseiten-als-PDF-Arbeit-digital-Erkl-rung-KI-4117ce28597181eea402dfaccf
@@ -640,7 +593,7 @@ SUMMARY:Discord-Nachrichten der EW-Morgenroutinen exportieren (DiscordChat
  st 15.11.)
 DTSTART;TZID="UTC+01:00":20261114T090000
 DTEND;TZID="UTC+01:00":20261114T100000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81f0-8241-fff7a4b274b8@notion2cal
 URL:https://app.notion.com/p/Discord-Nachrichten-der-EW-Morgenroutinen-exp
  ortieren-DiscordChatExporter-Claude-gleicht-gegen-P-4117ce28597181f08241ff
@@ -651,7 +604,7 @@ SUMMARY:Krafttraining (4×/Woche\, Kernpunkt\; Beinen spätestens ab 16:00
  \; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261113T154500
 DTEND;TZID="UTC+01:00":20261113T163000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81f2-9f41-c97814c168a3@notion2cal
 URL:https://app.notion.com/p/Krafttraining-4-Woche-Kernpunkt-Beinen-sp-tes
  tens-ab-16-00-Annahme-Uhrzeit-4117ce28597181f29f41c97814c168a3
@@ -661,7 +614,7 @@ SUMMARY:Krafttraining (4×/Woche\, Kernpunkt\; Beinen spätestens ab 16:00
  \; Annahme Uhrzeit)
 DTSTART;TZID="UTC+01:00":20261111T154500
 DTEND;TZID="UTC+01:00":20261111T163000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81f5-9bab-dc1f614529cc@notion2cal
 URL:https://app.notion.com/p/Krafttraining-4-Woche-Kernpunkt-Beinen-sp-tes
  tens-ab-16-00-Annahme-Uhrzeit-4117ce28597181f59babdc1f614529cc
@@ -672,7 +625,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  Annahme)
 DTSTART;TZID="UTC+01:00":20261114T073000
 DTEND;TZID="UTC+01:00":20261114T081500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81fa-bc5f-fdadfaebfdc4@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce28597181fabc5ffdadf
@@ -683,7 +636,7 @@ SUMMARY:EW-Morgenroutine + Trade-Journal 15 Min direkt danach (je Trade
  „nach Plan ja/nein“\, PnL abdecken\; Kernpunkt)
 DTSTART;TZID="UTC+01:00":20261112T061000
 DTEND;TZID="UTC+01:00":20261112T065500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81fe-906b-ca2c3c742919@notion2cal
 URL:https://app.notion.com/p/EW-Morgenroutine-Trade-Journal-15-Min-direkt-
  danach-je-Trade-nach-Plan-ja-nein-PnL-abdecken-K-4117ce28597181fe906bca2c3
@@ -693,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:Rückweg Ausstellung
 DTSTART;TZID="UTC+01:00":20261108T130000
 DTEND;TZID="UTC+01:00":20261108T134500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-8120-a4df-ff7930d57df8@notion2cal
 URL:https://app.notion.com/p/R-ckweg-Ausstellung-4117ce2859718120a4dfff793
  0d57df8
@@ -712,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Ausstellung
 DTSTART;TZID="UTC+01:00":20261108T110000
 DTEND;TZID="UTC+01:00":20261108T130000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81d3-aecd-c8ed0ee9d540@notion2cal
 URL:https://app.notion.com/p/Ausstellung-4117ce28597181d3aecdc8ed0ee9d540
 BEGIN:VALARM
@@ -727,26 +680,15 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:10 Seiten lesen (Experiment\, Buch\; ca. 7 Min je Seite = ca. 70 M
- in laut DAUERN.md\; Leopold 07.11.: vorher zu kurz)
-DTSTART;TZID="UTC+01:00":20261107T182000
-DTEND;TZID="UTC+01:00":20261107T193000
-DTSTAMP:20261107T145227Z
-UID:4117ce28-5971-8170-b663-f2fa6280f715@notion2cal
-URL:https://app.notion.com/p/10-Seiten-lesen-Experiment-Buch-ca-7-Min-je-S
- eite-ca-70-Min-laut-DAUERN-md-Leopold-07-11-v-4117ce2859718170b663f2fa6280
- f715
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KI-Liste v2 ansehen: Vorspann\, 15 Stichproben\, V-285/V-289\, Tit
- el\, „von mir geprüft“\, Ablage auf dem Stick (Session Acc 1\, Sonnet
-  high\, Laptop\; Schätzung 45–60 Min\; Abgabe Di 10.11.)
-DTSTART;TZID="UTC+01:00":20261107T163500
-DTEND;TZID="UTC+01:00":20261107T170000
-DTSTAMP:20261107T145227Z
+SUMMARY:KI-Log-PDF V3 noch einmal anschauen (löst „KI-Liste v2 ansehen
+ “ ab\; Vorspann\, Stichproben\, Titel\, „von mir geprüft“\, Ablage 
+ auf dem Stick\; Laptop\; Abgabe Di 10.11.\; Leopold 07.11.)
+DTSTART;TZID="UTC+01:00":20261109T121500
+DTEND;TZID="UTC+01:00":20261109T124500
+DTSTAMP:20261107T191217Z
 UID:4117ce28-5971-81fb-a77e-e3fc92332dcc@notion2cal
-URL:https://app.notion.com/p/KI-Liste-v2-ansehen-Vorspann-15-Stichproben-V
- -285-V-289-Titel-von-mir-gepr-ft-Ablage-auf-dem-4117ce28597181fba77ee3fc92
+URL:https://app.notion.com/p/KI-Log-PDF-V3-noch-einmal-anschauen-l-st-KI-L
+ iste-v2-ansehen-ab-Vorspann-Stichproben-Titel-v-4117ce28597181fba77ee3fc92
  332dcc
 END:VEVENT
 BEGIN:VEVENT
@@ -754,7 +696,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261109T145500
 DTEND;TZID="UTC+01:00":20261109T151500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40f7ce28-5971-8144-ac22-f87e9f5df1cb@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-40f7ce2859718144ac22f87e9f5df1cb
@@ -764,7 +706,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261110T170000
 DTEND;TZID="UTC+01:00":20261110T172000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40f7ce28-5971-817b-81c0-c9558f2c17e6@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-40f7ce285971817b81c0c9558f2c17e6
@@ -774,7 +716,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261111T174000
 DTEND;TZID="UTC+01:00":20261111T180000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40f7ce28-5971-8196-b05e-dcd2f522dc7b@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-40f7ce2859718196b05edcd2f522dc7b
@@ -784,7 +726,7 @@ SUMMARY:Koenz-Video: täglich 1 Sektion mit Feedback zu meinen Positionen
  ansehen (Laptop\, 20 Min)
 DTSTART;TZID="UTC+01:00":20261112T170000
 DTEND;TZID="UTC+01:00":20261112T172000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40f7ce28-5971-81f9-9c79-e0b68ee120ad@notion2cal
 URL:https://app.notion.com/p/Koenz-Video-t-glich-1-Sektion-mit-Feedback-zu
  -meinen-Positionen-ansehen-Laptop-20-Min-40f7ce28597181f99c79e0b68ee120ad
@@ -794,7 +736,7 @@ SUMMARY:Franz (freiwillig\, Handy): Abruf 4 (10 Wörter aus Abschn. 4\, 6
  \, 7 in Sätzen) + Statuen-Artikel lesen (von Do 05.11.\; Annahme 25 Min)
 DTSTART;TZID="UTC+01:00":20261109T200000
 DTEND;TZID="UTC+01:00":20261109T202500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40e7ce28-5971-81f6-84e0-f6e45715ce84@notion2cal
 URL:https://app.notion.com/p/Franz-freiwillig-Handy-Abruf-4-10-W-rter-aus-
  Abschn-4-6-7-in-S-tzen-Statuen-Artikel-lesen-40e7ce28597181f684e0f6e45715c
@@ -805,7 +747,7 @@ SUMMARY:(Fixblock) Gesundheit mit Claude besprechen (privater Chat\, Handy
  \; fiel 02.–06.11. aus\, sechstes Mal\; von Fr 06.11.\; Annahme 45 Min)
 DTSTART;TZID="UTC+01:00":20261108T180000
 DTEND;TZID="UTC+01:00":20261108T184500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40e7ce28-5971-81b9-9138-f99a7013f4d9@notion2cal
 URL:https://app.notion.com/p/Fixblock-Gesundheit-mit-Claude-besprechen-pri
  vater-Chat-Handy-fiel-02-06-11-aus-sechstes-Mal--40e7ce28597181b99138f99a7
@@ -832,7 +774,7 @@ SUMMARY:Franz (freiwillig\, Handy): Fehlerkarte – 5 Sätze schreiben (10
  .
 DTSTART;TZID="UTC+01:00":20261112T144000
 DTEND;TZID="UTC+01:00":20261112T150500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40c7ce28-5971-81ba-94a4-fec6e4a68545@notion2cal
 URL:https://app.notion.com/p/Franz-freiwillig-Handy-Fehlerkarte-5-S-tze-sc
  hreiben-10-Min-Lernblatt-FINAL-Abschn-8-lese-40c7ce28597181ba94a4fec6e4a68
@@ -844,7 +786,7 @@ SUMMARY:(Fixblock) Bio: Lernblatt Biologie 13-1.pdf Abschn. 1–5 + Erregu
  den Ferien\; Annahme 45 Min)
 DTSTART;TZID="UTC+01:00":20261109T175500
 DTEND;TZID="UTC+01:00":20261109T184000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40c7ce28-5971-81c9-9690-ec6c6103488e@notion2cal
 URL:https://app.notion.com/p/Fixblock-Bio-Lernblatt-Biologie-13-1-pdf-Absc
  hn-1-5-Erregungsleitung-lesen-von-Mo-02-11-f-nf-40c7ce28597181c99690ec6c61
@@ -870,7 +812,7 @@ SUMMARY:Bio (freiwillig\, Handy): Lernblatt Biologie 13-1.pdf Abschn. 6–
  uf So 08.11.\; zusammengelegt aus zwei Blöcken\; Annahme 60 Min)
 DTSTART;TZID="UTC+01:00":20261108T153000
 DTEND;TZID="UTC+01:00":20261108T163000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-8122-adaa-f0bc2f317c4d@notion2cal
 URL:https://app.notion.com/p/Bio-freiwillig-Handy-Lernblatt-Biologie-13-1-
  pdf-Abschn-6-10-lesen-Aktionspotential-Kurve-mit--40b7ce2859718122adaaf0bc
@@ -882,7 +824,7 @@ SUMMARY:Franz (Urlaub\, freiwillig\, Handy): 3 Beispiele mit Name\, Ort\,
  el (12 Min)
 DTSTART;TZID="UTC+01:00":20261108T095500
 DTEND;TZID="UTC+01:00":20261108T103000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-8125-b048-e3d40443f66d@notion2cal
 URL:https://app.notion.com/p/Franz-Urlaub-freiwillig-Handy-3-Beispiele-mit
  -Name-Ort-Zahl-aus-dem-Kopf-tippen-Beispiel-Ban-40b7ce2859718125b048e3d404
@@ -893,7 +835,7 @@ SUMMARY:Mit Solomon schreiben (in Apple Notizen\; jeden Montag\, auch an S
  chultagen\; Hormozi-Prinzip\; Handy\; Uhrzeit Annahme 20 Min)
 DTSTART;TZID="UTC+01:00":20261109T190000
 DTEND;TZID="UTC+01:00":20261109T192000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-8145-aec4-c33794100392@notion2cal
 URL:https://app.notion.com/p/Mit-Solomon-schreiben-in-Apple-Notizen-jeden-
  Montag-auch-an-Schultagen-Hormozi-Prinzip-Handy-U-40b7ce2859718145aec4c337
@@ -916,7 +858,7 @@ SUMMARY:Mit Solomon schreiben (in Apple Notizen\; jeden Montag\, auch an S
  chultagen\; Hormozi-Prinzip\; Handy\; Uhrzeit Annahme 20 Min)
 DTSTART;TZID="UTC+01:00":20261116T190000
 DTEND;TZID="UTC+01:00":20261116T192000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-8147-a21f-f883d29a3bea@notion2cal
 URL:https://app.notion.com/p/Mit-Solomon-schreiben-in-Apple-Notizen-jeden-
  Montag-auch-an-Schultagen-Hormozi-Prinzip-Handy-U-40b7ce2859718147a21ff883
@@ -939,7 +881,7 @@ SUMMARY:Mit Solomon schreiben (in Apple Notizen\; jeden Montag\, auch an S
  chultagen\; Hormozi-Prinzip\; Handy\; Uhrzeit Annahme 20 Min)
 DTSTART;TZID="UTC+01:00":20261130T190000
 DTEND;TZID="UTC+01:00":20261130T192000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-81fa-9f98-e2cb9cc8e1b5@notion2cal
 URL:https://app.notion.com/p/Mit-Solomon-schreiben-in-Apple-Notizen-jeden-
  Montag-auch-an-Schultagen-Hormozi-Prinzip-Handy-U-40b7ce28597181fa9f98e2cb
@@ -962,7 +904,7 @@ SUMMARY:Mit Solomon schreiben (in Apple Notizen\; jeden Montag\, auch an S
  chultagen\; Hormozi-Prinzip\; Handy\; Uhrzeit Annahme 20 Min)
 DTSTART;TZID="UTC+01:00":20261123T190000
 DTEND;TZID="UTC+01:00":20261123T192000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:40b7ce28-5971-81fb-b4b9-d6d93770b469@notion2cal
 URL:https://app.notion.com/p/Mit-Solomon-schreiben-in-Apple-Notizen-jeden-
  Montag-auch-an-Schultagen-Hormozi-Prinzip-Handy-U-40b7ce28597181fbb4b9d6d9
@@ -985,7 +927,7 @@ SUMMARY:Besprechen-Rest (Strategie 36 $\, YouTube-Shorts\, iOS-Kalender\;
  von Do 29.10.\; Handy\; Annahme 30 Min)
 DTSTART;TZID="UTC+01:00":20261108T140000
 DTEND;TZID="UTC+01:00":20261108T143000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4087ce28-5971-8164-a7cd-e23101038e11@notion2cal
 URL:https://app.notion.com/p/Besprechen-Rest-Strategie-36-YouTube-Shorts-i
  OS-Kalender-von-Do-29-10-Handy-Annahme-30-Min-4087ce2859718164a7cde2310103
@@ -997,7 +939,7 @@ SUMMARY:Lernapp-Handy-Aufgaben: Nachrichten/Fragen an Amir\, Marketing-Kon
  10.\; Handy\; Fr 06.11. ohne Zeit\, von Fr\; Annahme 50 Min)
 DTSTART;TZID="UTC+01:00":20261111T173000
 DTEND;TZID="UTC+01:00":20261111T180000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4087ce28-5971-8187-bc0a-f136ba47ce17@notion2cal
 URL:https://app.notion.com/p/Lernapp-Handy-Aufgaben-Nachrichten-Fragen-an-
  Amir-Marketing-Konten-ansehen-Lernapp-Entscheidungen-4087ce2859718187bc0af
@@ -1008,7 +950,7 @@ SUMMARY:Psychologie-Arbeitsblätter zusammenfassen\, in Notion „Wissen
  “ (Typ Psychologie\; Rückfahrt\; von Mo 26.10.\; Annahme)
 DTSTART;TZID="UTC+01:00":20261108T150000
 DTEND;TZID="UTC+01:00":20261108T152500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-8159-8921-c2520f8ec1f2@notion2cal
 URL:https://app.notion.com/p/Psychologie-Arbeitsbl-tter-zusammenfassen-in-
  Notion-Wissen-Typ-Psychologie-R-ckfahrt-von-Mo-26-4057ce28597181598921c252
@@ -1019,7 +961,7 @@ SUMMARY:Investor besprechen: langfristiges Portfolio mit 8–12 unkorrelie
  rten Investments (Rückfahrt\, Handy\; von Mo 26.10. verschoben\; Annahme)
 DTSTART;TZID="UTC+01:00":20261115T140000
 DTEND;TZID="UTC+01:00":20261115T144500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-819d-922d-dfdb91c0917e@notion2cal
 URL:https://app.notion.com/p/Investor-besprechen-langfristiges-Portfolio-m
  it-8-12-unkorrelierten-Investments-R-ckfahrt-Handy--4057ce285971819d922ddf
@@ -1033,7 +975,7 @@ SUMMARY:Handy-Kleinkram: Routinen in claude.ai löschen (fairvalue-tagesme
  ckfahrt\, Handy\; von Mo 26.10.\; Annahme)
 DTSTART;TZID="UTC+01:00":20261108T143000
 DTEND;TZID="UTC+01:00":20261108T150000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-81ae-8c63-cc5b7cd7410c@notion2cal
 URL:https://app.notion.com/p/Handy-Kleinkram-Routinen-in-claude-ai-l-schen
  -fairvalue-tagesmeldung-fairvalue-breit-tagesmeldung-4057ce28597181ae8c63c
@@ -1045,7 +987,7 @@ SUMMARY:Besprechen-Sammelblock (Rückfahrt\, Handy\; von Mo 26.10.): Train
  ebensziele jetzt eigener Block So 08.11. 18:00\; Annahme)
 DTSTART;TZID="UTC+01:00":20261114T160000
 DTEND;TZID="UTC+01:00":20261114T163000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-81c3-9314-d8b74093137c@notion2cal
 URL:https://app.notion.com/p/Besprechen-Sammelblock-R-ckfahrt-Handy-von-Mo
  -26-10-Trainingsplan-Automatik-Fragen-1-8-Hoss--4057ce28597181c39314d8b740
@@ -1057,7 +999,7 @@ SUMMARY:Referat Nasser Üben 3: lauter Durchlauf mit Sprechzettel v3\, Zei
  So zwei Durchläufe\, Mo zwei)
 DTSTART;TZID="UTC+01:00":20261108T093000
 DTEND;TZID="UTC+01:00":20261108T095500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-8107-abb2-e184798bd5e4@notion2cal
 URL:https://app.notion.com/p/Referat-Nasser-ben-3-lauter-Durchlauf-mit-Spr
  echzettel-v3-Zeit-stoppen-Ziel-20-Min-Referat-Di-1-4057ce2859718107abb2e18
@@ -1068,7 +1010,7 @@ SUMMARY:Referat Nasser: 5 Min Zahlenfolge 1952-1956-1967-1970 und Übergä
  nge aufsagen (vor dem Referat\; Leopold 26.10.)
 DTSTART:20261110T061500Z
 DTEND:20261110T062000Z
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-811e-9fb4-e08c4502b0aa@notion2cal
 URL:https://app.notion.com/p/Referat-Nasser-5-Min-Zahlenfolge-1952-1956-19
  67-1970-und-berg-nge-aufsagen-vor-dem-Referat-Leopo-4057ce285971811e9fb4e0
@@ -1080,7 +1022,7 @@ SUMMARY:Referat Nasser Üben 5: Generalprobe auf 20 Min\, erst ohne\, dann
  n 13:50)
 DTSTART;TZID="UTC+01:00":20261109T135000
 DTEND;TZID="UTC+01:00":20261109T141500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4057ce28-5971-81e8-8f1e-db746dde6822@notion2cal
 URL:https://app.notion.com/p/Referat-Nasser-ben-5-Generalprobe-auf-20-Min-
  erst-ohne-dann-mit-Zeit-Referat-Di-10-11-Leopold-4057ce28597181e88f1edb746
@@ -1091,7 +1033,7 @@ SUMMARY:T3-Connector „T3 ServerLaptop“ in claude.ai anmelden + Schreib
  test OpenCode im Scratch-Ordner (von So 25.10.\; Annahme)
 DTSTART;TZID="UTC+01:00":20261114T153000
 DTEND;TZID="UTC+01:00":20261114T160000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4047ce28-5971-81ef-bab1-c3942b3a44a8@notion2cal
 URL:https://app.notion.com/p/T3-Connector-T3-ServerLaptop-in-claude-ai-anm
  elden-Schreibtest-OpenCode-im-Scratch-Ordner-von-S-4047ce28597181efbab1c39
@@ -1102,7 +1044,7 @@ SUMMARY:Kunstreferat: Thema „Körperideale im Wandel“ bei der Kunstleh
  rkraft nachfragen (nächste Kunststunde nach den Ferien\, Leopold 25.10.)
 DTSTART;TZID="UTC+01:00":20261113T093500
 DTEND;TZID="UTC+01:00":20261113T094500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4047ce28-5971-8134-819b-e63969059f8d@notion2cal
 URL:https://app.notion.com/p/Kunstreferat-Thema-K-rperideale-im-Wandel-bei
  -der-Kunstlehrkraft-nachfragen-n-chste-Kunststunde--4047ce2859718134819be6
@@ -1127,17 +1069,28 @@ SUMMARY:Geschichte: je eine Probeantwort Typ 2 und 3 zu Thema 2 (Sowjetuni
  on)
 DTSTART;TZID="UTC+01:00":20261120T170000
 DTEND;TZID="UTC+01:00":20261120T172000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8127-a7b7-e1e9da954b08@notion2cal
 URL:https://app.notion.com/p/Geschichte-je-eine-Probeantwort-Typ-2-und-3-z
  u-Thema-2-Sowjetunion-4037ce2859718127a7b7e1e9da954b08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geschichte: Israel Abruf 2 (Zeitleiste\, Begriffe\, Rolle SU/USA/G
+ B/UN\, Antisemitismus-Tafelbild)
+DTSTART;TZID="UTC+01:00":20261111T163000
+DTEND;TZID="UTC+01:00":20261111T170500
+DTSTAMP:20261107T191217Z
+UID:4037ce28-5971-8131-bf9d-f5ffad2713e5@notion2cal
+URL:https://app.notion.com/p/Geschichte-Israel-Abruf-2-Zeitleiste-Begriffe
+ -Rolle-SU-USA-GB-UN-Antisemitismus-Tafelbild-4037ce2859718131bf9df5ffad271
+ 3e5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschichte: leichter Abruf Zeitleisten und Begriffe beider Themen
  \, früh enden
 DTSTART;TZID="UTC+01:00":20261129T110000
 DTEND;TZID="UTC+01:00":20261129T113000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8132-9b9a-ce8265f3b095@notion2cal
 URL:https://app.notion.com/p/Geschichte-leichter-Abruf-Zeitleisten-und-Beg
  riffe-beider-Themen-fr-h-enden-4037ce28597181329b9ace8265f3b095
@@ -1146,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: gemischter Abruf Israel und Sowjetunion (je 5 Fragen)
 DTSTART;TZID="UTC+01:00":20261121T110000
 DTEND;TZID="UTC+01:00":20261121T113500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8135-a356-d8d0a0ea8d65@notion2cal
 URL:https://app.notion.com/p/Geschichte-gemischter-Abruf-Israel-und-Sowjet
  union-je-5-Fragen-4037ce2859718135a356d8d0a0ea8d65
@@ -1155,7 +1108,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: Nachholsession Fehlerthemen (neue Aufgaben)
 DTSTART;TZID="UTC+01:00":20261128T110000
 DTEND;TZID="UTC+01:00":20261128T113000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8136-b95d-df72267537c3@notion2cal
 URL:https://app.notion.com/p/Geschichte-Nachholsession-Fehlerthemen-neue-A
  ufgaben-4037ce2859718136b95ddf72267537c3
@@ -1164,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: Probe auswerten gegen Fehlerthemen
 DTSTART;TZID="UTC+01:00":20261127T171500
 DTEND;TZID="UTC+01:00":20261127T174000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8138-b29d-f75b208b367b@notion2cal
 URL:https://app.notion.com/p/Geschichte-Probe-auswerten-gegen-Fehlerthemen
  -4037ce2859718138b29df75b208b367b
@@ -1173,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: Sowjetunion Abruf 1
 DTSTART;TZID="UTC+01:00":20261113T171500
 DTEND;TZID="UTC+01:00":20261113T174500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-813a-a061-dd41b700a75d@notion2cal
 URL:https://app.notion.com/p/Geschichte-Sowjetunion-Abruf-1-4037ce28597181
  3aa061dd41b700a75d
@@ -1182,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: Sowjetunion kennenlernen (neues Lernblatt-Kapitel)
 DTSTART;TZID="UTC+01:00":20261111T170000
 DTEND;TZID="UTC+01:00":20261111T173000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8146-8bfb-e7a8a42be673@notion2cal
 URL:https://app.notion.com/p/Geschichte-Sowjetunion-kennenlernen-neues-Ler
  nblatt-Kapitel-4037ce28597181468bfbe7a8a42be673
@@ -1191,7 +1144,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: Probe-Schulaufgabe (6 Aufgaben\, Zeit gestoppt)
 DTSTART;TZID="UTC+01:00":20261127T160000
 DTEND;TZID="UTC+01:00":20261127T164500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8151-8f97-db07ccd0280f@notion2cal
 URL:https://app.notion.com/p/Geschichte-Probe-Schulaufgabe-6-Aufgaben-Zeit
  -gestoppt-4037ce28597181518f97db07ccd0280f
@@ -1200,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte: kurzer Abruf Stoff 23./24.11. (aus dem Kopf)
 DTSTART;TZID="UTC+01:00":20261125T170000
 DTEND;TZID="UTC+01:00":20261125T172000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-8199-b0bb-e0c81f291d0c@notion2cal
 URL:https://app.notion.com/p/Geschichte-kurzer-Abruf-Stoff-23-24-11-aus-de
  m-Kopf-4037ce2859718199b0bbe0c81f291d0c
@@ -1210,7 +1163,7 @@ SUMMARY:Geschichte: Israel Transfer und Bewerten (je eine Probeantwort Typ
   2 und 3\, Claude gibt Aufgaben)
 DTSTART;TZID="UTC+01:00":20261108T185000
 DTEND;TZID="UTC+01:00":20261108T193000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-819a-875c-c3b837578c10@notion2cal
 URL:https://app.notion.com/p/Geschichte-Israel-Transfer-und-Bewerten-je-ei
  ne-Probeantwort-Typ-2-und-3-Claude-gibt-Aufgaben-4037ce285971819a875cc3b83
@@ -1221,7 +1174,7 @@ SUMMARY:Geschichte: Sowjetunion Abruf 2 (nach Stunde Di 17.11. nachtragen
  lassen)
 DTSTART;TZID="UTC+01:00":20261118T170000
 DTEND;TZID="UTC+01:00":20261118T173000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4037ce28-5971-81a1-bc0e-d506e42d7d9b@notion2cal
 URL:https://app.notion.com/p/Geschichte-Sowjetunion-Abruf-2-nach-Stunde-Di
  -17-11-nachtragen-lassen-4037ce28597181a1bc0ed506e42d7d9b
@@ -1230,7 +1183,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte-Referat Nasser (mündlich\, 20 Min\, davon 10 Min Biogr
  aphie\; Thema steht fest\, Leopold 23.10.)
 DTSTART;VALUE=DATE:20261110
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4027ce28-5971-81e0-9f81-f64286a0958c@notion2cal
 URL:https://app.notion.com/p/Geschichte-Referat-Nasser-m-ndlich-20-Min-dav
  on-10-Min-Biographie-Thema-steht-fest-Leopold-23-1-4027ce28597181e09f81f64
@@ -1240,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Französisch: Podcast-Abgabe (Leopold bestätigt 22.10.\; Aufgaben
  stellung noch erfragen)
 DTSTART;VALUE=DATE:20270111
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:4017ce28-5971-8184-918b-e3b76c6212ef@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Podcast-Abgabe-Leopold-best-tigt-
  22-10-Aufgabenstellung-noch-erfragen-4017ce2859718184918be3b76c6212ef
@@ -1248,9 +1201,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTF BTC CoinM Position planen mit Staffelung (mit Claude bespreche
  n\; fest 17:30\, Leopold 07.11.)
-DTSTART;TZID="UTC+01:00":20261107T173000
-DTEND;TZID="UTC+01:00":20261107T181500
-DTSTAMP:20261107T145227Z
+DTSTART;TZID="UTC+01:00":20261107T193500
+DTEND;TZID="UTC+01:00":20261107T202000
+DTSTAMP:20261107T191217Z
 UID:4007ce28-5971-810a-99b5-e8c6fac47d31@notion2cal
 URL:https://app.notion.com/p/HTF-BTC-CoinM-Position-planen-mit-Staffelung-
  mit-Claude-besprechen-fest-17-30-Leopold-07-11-4007ce285971810a99b5e8c6fac
@@ -1273,7 +1226,7 @@ SUMMARY:Aktien und Altcoins wieder analysieren (aus: Claude fragen 19.10.
  \; Annahme)
 DTSTART;TZID="UTC+01:00":20261114T140000
 DTEND;TZID="UTC+01:00":20261114T144500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3fe7ce28-5971-815f-8839-dfde7d9f5d55@notion2cal
 URL:https://app.notion.com/p/Aktien-und-Altcoins-wieder-analysieren-aus-Cl
  aude-fragen-19-10-Annahme-3fe7ce285971815f8839dfde7d9f5d55
@@ -1283,7 +1236,7 @@ SUMMARY:EW-Levels backtesten (aus: Claude fragen 19.10.\; Annahme\, Vorgeh
  en vorher besprechen)
 DTSTART;TZID="UTC+01:00":20261114T163000
 DTEND;TZID="UTC+01:00":20261114T173000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3fe7ce28-5971-81f0-9948-ef8e289d5f0c@notion2cal
 URL:https://app.notion.com/p/EW-Levels-backtesten-aus-Claude-fragen-19-10-
  Annahme-Vorgehen-vorher-besprechen-3fe7ce28597181f09948ef8e289d5f0c
@@ -1292,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:Hexaplan: T&T und proven corrective Daten sammeln (Chart)
 DTSTART;TZID="UTC+01:00":20261108T194000
 DTEND;TZID="UTC+01:00":20261108T204000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3fc7ce28-5971-81e6-aa3f-f45fe3d633e7@notion2cal
 URL:https://app.notion.com/p/Hexaplan-T-T-und-proven-corrective-Daten-samm
  eln-Chart-3fc7ce28597181e6aa3ff45fe3d633e7
@@ -1301,7 +1254,7 @@ BEGIN:VEVENT
 SUMMARY:Rathaus Marienplatz: Besuch mit der Schule (Fischbrunnen)
 DTSTART;TZID="UTC+01:00":20261109T090000
 DTEND;TZID="UTC+01:00":20261109T120000
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3fb7ce28-5971-81ab-a61b-e7f373190cdd@notion2cal
 DESCRIPTION:Rathaus am Marienplatz (Fischbrunnen)
 URL:https://app.notion.com/p/Rathaus-Marienplatz-Besuch-mit-der-Schule-Fis
@@ -1321,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:Garmin und Loop-Stöpsel putzen (wöchentlich\, Wochenende)
 DTSTART;TZID="UTC+01:00":20261108T173000
 DTEND;TZID="UTC+01:00":20261108T174500
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3fa7ce28-5971-815d-a232-f9d2038e0146@notion2cal
 URL:https://app.notion.com/p/Garmin-und-Loop-St-psel-putzen-w-chentlich-Wo
  chenende-3fa7ce285971815da232f9d2038e0146
@@ -1339,7 +1292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geo: Schulaufgabe (2geo)
 DTSTART;VALUE=DATE:20270113
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-810a-b9f4-c1e039fcad41@notion2cal
 URL:https://app.notion.com/p/Geo-Schulaufgabe-2geo-3f57ce285971810ab9f4c1e
  039fcad41
@@ -1347,7 +1300,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Französisch: Kurzarbeit (2f1)
 DTSTART;VALUE=DATE:20261116
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-811d-b5ed-c450aa4d4265@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Kurzarbeit-2f1-3f57ce285971811db5
  edc450aa4d4265
@@ -1355,7 +1308,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Kurzarbeit (2M2)
 DTSTART;VALUE=DATE:20261126
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-8127-9a8e-f4e17908c2a2@notion2cal
 URL:https://app.notion.com/p/Mathe-Kurzarbeit-2M2-3f57ce28597181279a8ef4e1
  7908c2a2
@@ -1363,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deutsch: Schulaufgabe (2D2)
 DTSTART;VALUE=DATE:20270312
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-814a-b7c9-f853e35f425b@notion2cal
 URL:https://app.notion.com/p/Deutsch-Schulaufgabe-2D2-3f57ce285971814ab7c9
  f853e35f425b
@@ -1371,7 +1324,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Schulaufgabe (2M2)
 DTSTART;VALUE=DATE:20261203
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-8151-94d7-f8f41053dba3@notion2cal
 URL:https://app.notion.com/p/Mathe-Schulaufgabe-2M2-3f57ce285971815194d7f8
  f41053dba3
@@ -1379,7 +1332,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Religion: Schulaufgabe (2k1)
 DTSTART;VALUE=DATE:20261222
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-816c-a5dc-f29bbf7e56d5@notion2cal
 URL:https://app.notion.com/p/Religion-Schulaufgabe-2k1-3f57ce285971816ca5d
  cf29bbf7e56d5
@@ -1387,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kunst: Schulaufgabe (2ku st)
 DTSTART;VALUE=DATE:20261218
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-818c-b39b-da9ddd8095d2@notion2cal
 URL:https://app.notion.com/p/Kunst-Schulaufgabe-2ku-st-3f57ce285971818cb39
  bda9ddd8095d2
@@ -1395,7 +1348,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bio: Schulaufgabe (2b ho)
 DTSTART;VALUE=DATE:20261123
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81b3-8417-f9c3df45ef04@notion2cal
 URL:https://app.notion.com/p/Bio-Schulaufgabe-2b-ho-3f57ce28597181b38417f9
  c3df45ef04
@@ -1403,7 +1356,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Englisch: Schulaufgabe (2E1)
 DTSTART;VALUE=DATE:20270309
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81b5-96af-c9ab76c9414e@notion2cal
 URL:https://app.notion.com/p/Englisch-Schulaufgabe-2E1-3f57ce28597181b596a
  fc9ab76c9414e
@@ -1411,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deutsch: Schulaufgabe (2D2)
 DTSTART;VALUE=DATE:20261211
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81b8-a023-cc28232022d4@notion2cal
 URL:https://app.notion.com/p/Deutsch-Schulaufgabe-2D2-3f57ce28597181b8a023
  cc28232022d4
@@ -1419,7 +1372,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Französisch: Schulaufgabe (2f1)
 DTSTART;VALUE=DATE:20261209
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81c3-bc3a-e85dfad9693e@notion2cal
 URL:https://app.notion.com/p/Franz-sisch-Schulaufgabe-2f1-3f57ce28597181c3
  bc3ae85dfad9693e
@@ -1427,7 +1380,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschichte: Schulaufgabe (2g2)
 DTSTART;VALUE=DATE:20261130
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81e4-9660-f43aed188069@notion2cal
 URL:https://app.notion.com/p/Geschichte-Schulaufgabe-2g2-3f57ce28597181e49
  660f43aed188069
@@ -1435,7 +1388,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathe: Schulaufgabe (2M2)
 DTSTART;VALUE=DATE:20270304
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81f7-ac56-d2df7551a1d9@notion2cal
 URL:https://app.notion.com/p/Mathe-Schulaufgabe-2M2-3f57ce28597181f7ac56d2
  df7551a1d9
@@ -1443,7 +1396,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Englisch: Schulaufgabe (2E1)
 DTSTART;VALUE=DATE:20261215
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3f57ce28-5971-81f9-ab60-fae5821c741e@notion2cal
 URL:https://app.notion.com/p/Englisch-Schulaufgabe-2E1-3f57ce28597181f9ab6
  0fae5821c741e
@@ -1452,7 +1405,7 @@ BEGIN:VEVENT
 SUMMARY:Sommerferien Bayern
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270913
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3e67ce28-5971-810b-9517-d59ebee7759b@notion2cal
 URL:https://app.notion.com/p/Sommerferien-Bayern-3e67ce285971810b9517d59eb
  ee7759b
@@ -1461,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:Pfingstferien Bayern
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270528
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3e67ce28-5971-811d-b66a-c1c8ae6f9a19@notion2cal
 URL:https://app.notion.com/p/Pfingstferien-Bayern-3e67ce285971811db66ac1c8
  ae6f9a19
@@ -1470,7 +1423,7 @@ BEGIN:VEVENT
 SUMMARY:Frühjahrsferien Bayern
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270212
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3e67ce28-5971-8145-a93e-ca0cf3209f67@notion2cal
 URL:https://app.notion.com/p/Fr-hjahrsferien-Bayern-3e67ce2859718145a93eca
  0cf3209f67
@@ -1479,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsferien Bayern
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270108
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3e67ce28-5971-8163-91dc-e92dab068ac0@notion2cal
 URL:https://app.notion.com/p/Weihnachtsferien-Bayern-3e67ce285971816391dce
  92dab068ac0
@@ -1488,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:Osterferien Bayern
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20261107T145227Z
+DTSTAMP:20261107T191217Z
 UID:3e67ce28-5971-816c-ab65-ef27fd74f8be@notion2cal
 URL:https://app.notion.com/p/Osterferien-Bayern-3e67ce285971816cab65ef27fd
  74f8be
